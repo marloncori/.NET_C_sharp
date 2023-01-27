@@ -1,0 +1,11 @@
+
+$> dotnet new web api -n <ProjectName>
+   # use this command to create a new ProjectName
+
+$> dotnet run
+   # use this one to start your application
+
+$> dotnet dev-certs https --trust
+   # use this to authorize access to webpage
+
+# then go to http://localhost:5000/swagger

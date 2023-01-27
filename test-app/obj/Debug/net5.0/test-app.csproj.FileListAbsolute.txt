@@ -1,0 +1,16 @@
+C:\Users\NUC\Desktop\LANGS\C#\test-app\bin\Debug\net5.0\test-app.exe
+C:\Users\NUC\Desktop\LANGS\C#\test-app\bin\Debug\net5.0\test-app.deps.json
+C:\Users\NUC\Desktop\LANGS\C#\test-app\bin\Debug\net5.0\test-app.runtimeconfig.json
+C:\Users\NUC\Desktop\LANGS\C#\test-app\bin\Debug\net5.0\test-app.runtimeconfig.dev.json
+C:\Users\NUC\Desktop\LANGS\C#\test-app\bin\Debug\net5.0\test-app.dll
+C:\Users\NUC\Desktop\LANGS\C#\test-app\bin\Debug\net5.0\ref\test-app.dll
+C:\Users\NUC\Desktop\LANGS\C#\test-app\bin\Debug\net5.0\test-app.pdb
+C:\Users\NUC\Desktop\LANGS\C#\test-app\obj\Debug\net5.0\test-app.csproj.AssemblyReference.cache
+C:\Users\NUC\Desktop\LANGS\C#\test-app\obj\Debug\net5.0\test-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NUC\Desktop\LANGS\C#\test-app\obj\Debug\net5.0\test-app.AssemblyInfoInputs.cache
+C:\Users\NUC\Desktop\LANGS\C#\test-app\obj\Debug\net5.0\test-app.AssemblyInfo.cs
+C:\Users\NUC\Desktop\LANGS\C#\test-app\obj\Debug\net5.0\test-app.csproj.CoreCompileInputs.cache
+C:\Users\NUC\Desktop\LANGS\C#\test-app\obj\Debug\net5.0\test-app.dll
+C:\Users\NUC\Desktop\LANGS\C#\test-app\obj\Debug\net5.0\ref\test-app.dll
+C:\Users\NUC\Desktop\LANGS\C#\test-app\obj\Debug\net5.0\test-app.pdb
+C:\Users\NUC\Desktop\LANGS\C#\test-app\obj\Debug\net5.0\test-app.genruntimeconfig.cache

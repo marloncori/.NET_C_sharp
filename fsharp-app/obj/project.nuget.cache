@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "yaFnNfXGzNeYJ4Tj1fJEkgidGaRlfjz92u2YxStaRayH4yg6VaR9Q+jWYauBvNYJaEDESb4Mxdlx9xfUfXTGcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NUC\\Desktop\\LANGS\\C#\\fsharp-app\\fsharp-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NUC\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.17\\microsoft.aspnetcore.spaservices.extensions.5.0.17.nupkg.sha512",
+    "C:\\Users\\NUC\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\NUC\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\NUC\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\NUC\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
